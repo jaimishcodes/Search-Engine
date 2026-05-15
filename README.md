@@ -5,7 +5,7 @@ This project allows users to search and explore images dynamically with a clean 
 
 ## 🔗 Live Demo
 
-[Click Here](https://jaimishcodes.github.io/Search-Engine/washing and cleaning)
+[Click Here](https://jaimishcodes.github.io/Search-Engine/)
 
 ## 📚 What I Learned
 
